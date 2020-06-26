@@ -1,0 +1,13 @@
+D:\code\projects\OOPgame\OOPgame1\obj\Debug\netcoreapp3.1\OOPgame1.csprojAssemblyReference.cache
+D:\code\projects\OOPgame\OOPgame1\obj\Debug\netcoreapp3.1\OOPgame1.csproj.CoreCompileInputs.cache
+D:\code\projects\OOPgame\OOPgame1\obj\Debug\netcoreapp3.1\OOPgame1.AssemblyInfoInputs.cache
+D:\code\projects\OOPgame\OOPgame1\obj\Debug\netcoreapp3.1\OOPgame1.AssemblyInfo.cs
+D:\code\projects\OOPgame\OOPgame1\bin\Debug\netcoreapp3.1\OOPgame1.exe
+D:\code\projects\OOPgame\OOPgame1\bin\Debug\netcoreapp3.1\OOPgame1.deps.json
+D:\code\projects\OOPgame\OOPgame1\bin\Debug\netcoreapp3.1\OOPgame1.runtimeconfig.json
+D:\code\projects\OOPgame\OOPgame1\bin\Debug\netcoreapp3.1\OOPgame1.runtimeconfig.dev.json
+D:\code\projects\OOPgame\OOPgame1\bin\Debug\netcoreapp3.1\OOPgame1.dll
+D:\code\projects\OOPgame\OOPgame1\bin\Debug\netcoreapp3.1\OOPgame1.pdb
+D:\code\projects\OOPgame\OOPgame1\obj\Debug\netcoreapp3.1\OOPgame1.dll
+D:\code\projects\OOPgame\OOPgame1\obj\Debug\netcoreapp3.1\OOPgame1.pdb
+D:\code\projects\OOPgame\OOPgame1\obj\Debug\netcoreapp3.1\OOPgame1.genruntimeconfig.cache
